@@ -1,0 +1,6 @@
+*/__pycache__/
+.DS_Store
+*/sentiment-analysis-on-movie-reviews/
+task1/sentiment-analysis-on-movie-reviews.zip
+*.txt
+*/.DS_Store
