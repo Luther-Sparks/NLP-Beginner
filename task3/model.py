@@ -7,7 +7,7 @@ from util import get_mask
 
 snli = load_dataset('snli')
 
-class BISM(nn.Module):
+class ESIM(nn.Module):
     def __init__(
         self,
         hidden_size: int,
